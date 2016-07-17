@@ -1,4 +1,6 @@
 # react-flux
 
-To start 
-`npm install` 
+To start follow the steps
+
+1. `npm install` 
+2. `npm start`
